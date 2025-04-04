@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
 	int width = 30, height = 7;
 	
 	// Print top border
